@@ -1,0 +1,11 @@
+{
+  "name": "simonelinks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./src/input.css -o ./style.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
